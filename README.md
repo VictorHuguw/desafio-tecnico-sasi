@@ -27,4 +27,7 @@ Feito isso basta apenas clicar em Carousel Component e voce sera redirecionado p
 
 ![Initial](./src/screenshots/home.png)
 
+## Funcionalidades implementadas 
 
+* Desenvolvimento do componente de carrossel permitindo ser utilizado em qualquer parte da aplicação
+* 
