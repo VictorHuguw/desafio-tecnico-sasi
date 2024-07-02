@@ -19,5 +19,6 @@ Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o
 
 Se tudo ocorreu certo você provavelmente deve estar vendo uma tela parecida com essa abaixo
 
+![Initial](./src/screenshots/initial.png)
 
 
