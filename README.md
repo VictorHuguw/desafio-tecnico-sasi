@@ -30,4 +30,8 @@ Feito isso basta apenas clicar em Carousel Component e voce sera redirecionado p
 ## Funcionalidades implementadas 
 
 * Desenvolvimento do componente de carrossel permitindo ser utilizado em qualquer parte da aplicação
-* 
+* Carrosel passando imagens automaticamente
+* Ao clicar na imagem do carrossel é feito o redirecionamento para a página assim como no site amazonas meu lar
+* Adicionado filtro de contraste
+* Foi criado um hook para a request dos dados afim de ser utilizado em outras partes da aplicação de forma mais fácil para que não haja duplicação de código
+* Foi utilizado typescript na aplicação para melhor organização, segurança e modularidade da aplicação utilizando interfaces e constantes.
