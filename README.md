@@ -21,4 +21,10 @@ Se tudo ocorreu certo você provavelmente deve estar vendo uma tela parecida com
 
 ![Initial](./src/screenshots/initial.png)
 
+## Visualizando o componente
+
+Feito isso basta apenas clicar em Carousel Component e voce sera redirecionado para o componente de carousel da aplicação
+
+![Initial](./src/screenshots/home.png)
+
 
